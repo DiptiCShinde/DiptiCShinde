@@ -52,7 +52,7 @@ I hold an **M.Sc. in Statistics** and build end-to-end data pipelines: ingesting
 * **[Data Quality & Reconciliation Framework](https://github.com/DiptiCShinde/PythonBizmetricAssignment)**  
   Automated baseline-to-target data reconciliation engine. Flags anomalies using Z-score and IQR bounds with SQL verification and Power BI audit reporting.
 
-* **F1 Racing Analytics Pipeline** *(Coming Soon)*  
+* **[F1 Racing Analytics Pipeline](https://github.com/DiptiCShinde/F1_Analytics)**
   Telemetry lakehouse ingestion on Delta Lake & PySpark paired with XGBoost predictive lap modeling.
 
 ---
