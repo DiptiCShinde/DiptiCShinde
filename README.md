@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Engineering &nbsp;·&nbsp; Data Science &nbsp;·&nbsp; Analytics</b><br>
-  M.Sc. Statistics &nbsp;|&nbsp; PySpark &nbsp;·&nbsp; Databricks &nbsp;·&nbsp; Azure &nbsp;·&nbsp; Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Power BI<br>
+  M.Sc. Statistics &nbsp;|&nbsp; Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Azure &nbsp;·&nbsp; Pyspark &nbsp;·&nbsp; Databrics &nbsp;·&nbsp; Power BI<br>
   Pune, India
 </p>
 
