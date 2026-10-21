@@ -49,9 +49,9 @@ I hold an **M.Sc. in Statistics** and build end-to-end data pipelines: ingesting
 * **[Amazon Sales Lakehouse & Drift Analysis](https://github.com/DiptiCShinde/Amazon_Sales_Analysis)**  
   End-to-end Medallion pipeline (Bronze $\to$ Silver $\to$ Gold) on **Azure Databricks & Fabric**. Performed statistical drift tests (KS-Test, skewness) between 2022–2023 sales and built regression models to predict revenue trends.
 
-* **[Data Quality & Reconciliation Framework](https://github.com/DiptiCShinde/PythonBizmetricAssignment)**  
-  Automated baseline-to-target data reconciliation engine. Flags anomalies using Z-score and IQR bounds with SQL verification and Power BI audit reporting.
-
+* **[Data Quality & Reconciliation Framework](https://github.com/DiptiCShinde/Python_Database_Activities)**  
+  Python class assignments and practice activities covering programming fundamentals, functions, classes, lambda functions, and SQL Server connectivity with pyodbc.
+  
 * **[F1 Racing Analytics Pipeline](https://github.com/DiptiCShinde/F1_Analytics)**                                                                                   Telemetry lakehouse ingestion on Delta Lake & PySpark paired with XGBoost predictive lap modeling.
 
 ---
