@@ -16,7 +16,7 @@
 
 ### 👋 About Me
 
-I hold an **M.Sc. in Statistics** and build end-to-end data pipelines: ingesting and transforming raw data on **Azure/Databricks (Medallion Architecture)**, validating pipeline integrity with **statistical drift checks**, and serving insights via **Power BI**.
+I hold an **M.Sc. in Statistics** and work across the data lifecycle. I use **Python and SQL** to explore, clean, and analyze data; build reliable pipelines on **Azure and Databricks** using **Medallion Architecture**; and apply statistical methods to validate data quality and identify drift. I also use **machine learning** to develop predictive models and create **Power BI** reports that turn analysis into clear, actionable insights.
 
 * **Previous:** Data Engineer Intern at **Bizmetric** (Automated data reconciliation & validation pipelines).
 * **Open to:** Junior Data Engineer · Data Scientist · BI Analyst roles.
